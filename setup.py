@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pipest", # Replace with your own username
-    version="0.0.2",
+    version="0.0.1",
     author="Lautaro Estienne",
     author_email="lautaro.est@gmail.com",
     description="Python package for machine learning pipelines excecution",
